@@ -4,7 +4,7 @@
 #
 #    pip-compile requirements/tests-pallets-min.in
 #
-click==8.0.0
+click==8.0.4
     # via -r requirements/tests-pallets-min.in
 itsdangerous==2.0.0
     # via -r requirements/tests-pallets-min.in
